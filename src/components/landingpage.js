@@ -50,10 +50,10 @@ class Landing extends Component {
 					<Cell col={1}>
 					</Cell>
 					<Cell col={6}>
-						<h1> TEST </h1>
+						<h1 style={{display: 'block'}}> . </h1>
 					</Cell>
 					<Cell col={4}>
-						<h1> TEST </h1>
+						<h1 style={{display: 'none'}}> . </h1>
 					</Cell>
 					<Cell col={1}>
 					</Cell>
