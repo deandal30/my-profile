@@ -28,17 +28,17 @@ class Landing extends Component {
 								</a>
 								{/* GitHub */}
 
-								<a href="http://google.com" rel="noopener noreferer" target="_blank"> 
+								<a href="https://github.com/deandal30" rel="noopener noreferer" target="_blank"> 
 									<i className="fa fa-github-square" aria-hidden="true" /> 
 								</a>
 
 								{/* Freecodecamp */}
-								<a href="http://google.com" rel="noopener noreferer" target="_blank"> 
+								<a href="https://www.freecodecamp.org/fcc23876f06-1ddb-4e06-8f0d-3a3800a9682d" rel="noopener noreferer" target="_blank"> 
 									<i className="fa fa-free-code-camp" aria-hidden="true" /> 
 								</a>
 
 								{/* Facebook */}
-								<a href="http://google.com" rel="noopener noreferer" target="_blank"> 
+								<a href="http://facebook.com/deandal30" rel="noopener noreferer" target="_blank"> 
 									<i className="fa fa-facebook-square" aria-hidden="true" /> 
 								</a>
 							</div>
